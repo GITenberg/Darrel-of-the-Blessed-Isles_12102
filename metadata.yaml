@@ -1,0 +1,26 @@
+_repo: Darrel-of-the-Blessed-Isles_12102
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacheller, Irving
+    alias: Bacheller, Addison Irving
+    birthdate: 1859
+    deathdate: 1950
+    gutenberg_agent_id: '4001'
+    url: http://www.gutenberg.org/2009/agents/4001
+    wikipedia: http://en.wikipedia.org/wiki/Irving_Bacheller
+description: The clock tinker -- The sign o' the dial.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: Darrel of the Blessed Isles
+url: http://www.gutenberg.org/ebooks/12102
